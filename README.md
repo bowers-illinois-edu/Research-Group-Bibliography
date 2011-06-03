@@ -7,3 +7,5 @@ to many of the papers referenced in the database. I don't think this
 is a problem, but those urls will only work on my computer. We can't
 share those papers publically, but we could share them in our research
 group somehow. I am open to ideas about this.
+
+If you fork and add, please contribute back to grow the database.
