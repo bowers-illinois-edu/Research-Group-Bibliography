@@ -9,3 +9,8 @@ share those papers publically, but we could share them in our research
 group somehow. I am open to ideas about this.
 
 If you fork and add, please contribute back to grow the database.
+
+To merge bib files try:
+
+bibtool -R -r bibtoolsettings.rsc -s -v one.bib two.bib -o main.bib
+
